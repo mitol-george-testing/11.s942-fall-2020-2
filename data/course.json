@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Social Science",
+      "Geography"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9c830b6f-f5ae-83b3-aee5-9d013d41e8d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness",
+  "course_description": "In this seminar we explore the history, present, and future of psychogeography, hoping to map the center and the edges of this elusive field and to pioneer potential new directions and applications for the principles we discover (or invent) along the way. We discuss classic and more recent texts\u2014including novels, essays, poems, reviews, films, and other works of creative nonfiction and speculative fiction. Students also undertake their own psychogeographic wanderings and complete a final \u201ccarto-imagino-synthetic\u201d project to document, describe, map, and otherwise \u201cmake sense of place\u201d through these techniques.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S942",
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
